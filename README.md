@@ -1,2 +1,2 @@
 # wow.js
-trial 
+https://erfan-ali47.github.io/wow.js/
